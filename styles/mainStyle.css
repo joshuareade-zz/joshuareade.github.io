@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #123456;
+}
+
+/*
+*
+*
+*
+*
+*
+*
+*/
+
+.header {
+    width: 640px;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.header p {
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: #fff;
+    opacity: 1;
+    font-size: 4em;
+    padding: 0.5em;
+}
